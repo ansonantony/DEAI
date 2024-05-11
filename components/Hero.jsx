@@ -18,7 +18,7 @@ const Hero = ({transferNativeToken}) => {
                 <div
                  className="heading-sup-title">Coin Market
                 </div>
-                <h2 className="heading-title
+                {/* <h2 className="heading-title
                 heading--half-colored">
                   Created Liquidity Marketplace
 
@@ -36,7 +36,7 @@ const Hero = ({transferNativeToken}) => {
                   nisdi ghitrd styi kitry sonp 
                   fils
                   
-                </div>
+                </div> */}
 
               </header>
 

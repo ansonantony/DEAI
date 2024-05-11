@@ -7,8 +7,6 @@ import {
   ICOTokens,
   LiquidityHistory,
   ICOSale,
-  Access,
-  Analytic,
   App,
   AddLiquidity,
   AddPool,
@@ -58,8 +56,6 @@ const index = () => {
           <LiquidityHistory GET_ALL_LIQUIDITY = 
             {GET_ALL_LIQUIDITY} />
           <App />
-          <Analytic />
-          <Access />
           <ICOSale
             tokenSale={tokenSale}
             nativeToken={nativeToken}

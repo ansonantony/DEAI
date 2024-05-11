@@ -3,8 +3,6 @@ import Hero from "./Hero";
 import ICOTokens from "./ICOTokens";
 import LiquidityHistory from "./LiquidityHistory";
 import ICOSale from "./ICOSale";
-import Access from "./Access";
-import Analytic from "./Analytic";
 import App from "./App";
 import AddPool from "./AddPool";
 import AddLiquidity from "./AddLiquidity";
@@ -24,8 +22,6 @@ export {
   ICOTokens,
   LiquidityHistory,
   ICOSale,
-  Access,
-  Analytic,
   App,
   AddLiquidity,
   AddPool,
