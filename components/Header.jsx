@@ -10,16 +10,8 @@ const Header = ({setOpenAddPool, setOpenAllLiquidity, connect,
     <header className="header" id="site-header">
       <div className="container">
         <div className="header-content-wrapper">
-          <a href="/" className="site-logo">
-            <img src="img/logo-primary.png" alt="" />
-            <HeaderICON />
-          </a>
-
           <nav id="primary-menu" className="primary-menu">
             <ul className="primary-menu-menu">
-              <li>
-                <a href="/">Home</a>
-              </li>
               <li onClick={() => setOpenAddPool(true)}
               className="menu-item-has-children">
                 <a>Add Pool</a>

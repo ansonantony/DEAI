@@ -1,5 +1,4 @@
 import Header from "./Header";
-import Footer from "./Footer";
 import Hero from "./Hero";
 import ICOTokens from "./ICOTokens";
 import LiquidityHistory from "./LiquidityHistory";
@@ -21,7 +20,6 @@ import FooterICON from "./SVG/FooterICON";
 
 export {
   Header,
-  Footer,
   Hero,
   ICOTokens,
   LiquidityHistory,
@@ -37,5 +35,5 @@ export {
   Input,
   PoolInput,
   HeaderICON,
-  FooterICON,
+
 };
