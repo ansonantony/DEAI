@@ -6,8 +6,8 @@ const App = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 col-md-12
-          col-sm-12 col-xs-12">
-            <header className="crumina-module
+          col-sm-12 col-xs-12 ">
+            {/* <header className="crumina-module
             crumina-heading heading--h2
             heading--with-decoration">
               <div 
@@ -27,9 +27,9 @@ const App = () => {
                content without focusing 
                on the actual words.
                </div>
-            </header>
+            </header> */}
 
-            <p>Lorem Ipsum is a widely used 
+            {/* <p>Lorem Ipsum is a widely used 
               placeholder text in the design
                and printing industry. 
                It helps create realistic-looking 
@@ -78,13 +78,13 @@ const App = () => {
                   </div>
                 </a>
             </div>
-          </div>
+          </div> */}
 
-          <div className="col-lg-6 col-md-12
+          {/* <div className="col-lg-6 col-md-12
           col-sm-12 col-xs-12 mt30">
             <img className="responsive-width-50"
-            src= "img/phone.png" alt="" />
-          </div>
+            src= "img/phone.png" alt="" />*/}
+          </div> 
         </div>
       </div>
     </section>

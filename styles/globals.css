@@ -1,17 +1,17 @@
-
-
-
-
 @import url("../public/css/plugins.css");
 @import url("../public/css/theme-styles.css");
 @import url("../public/css/blocks.css");
 @import url("../public/css/widgets.css");
 @import url("../public/css/font-awesome.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-
-
-
-
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .new_flex {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -19,7 +19,7 @@
 }
 
 .new_addpool {
-  width: 50%;
+  /* width: 50%; */
   margin: 0 auto;
 }
 
