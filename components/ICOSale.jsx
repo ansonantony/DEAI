@@ -78,8 +78,8 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
               w-distribution-ends countdown-bg1">
                 <h5 className="title">Dupe token for sale</h5>
                 <div className="new_center_img mt30">
-                  <img src="img/nopool.png"
-                  className="responsive-width-50" alt="" />
+                  {/* <img src="img/nopool.png"
+                  className="responsive-width-50" alt="" /> */}
                 </div>
 
                 <Input placeholder={"token Quantity"}
