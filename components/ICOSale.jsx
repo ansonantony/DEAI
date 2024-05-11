@@ -14,13 +14,14 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
     <section
       id="tokenBuy"
       className="medium-padding120
-      responsive-align-center"
+      responsive-align-center center"
       >
-        <div className="container" id="buyWoox">
+        <div className="center">
+        <div className="container " id="buyWoox">
           <div className="row bg-2">
             <div className="col-lg-6 col-md-12
             col-sm-12 col-xs-12 mb30">
-             <header className="crumina-module
+             {/* <header className="crumina-module
               crumina-heading heading--h2
               heading--with-decoration">
               
@@ -68,11 +69,11 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
                   {nativeToken?.tokenSymbol}
                 </h4>
               </div>
-            </div>
-            </div>
+            </div>*/}
+            </div> 
 
             <div className="col-lg-6 col-md-12
-            col-lg-offset-0 col-sm-12 col-xs-12">
+            col-lg-offset-0 col-sm-12 col-xs-12 center">
               <div className="widget
               w-distribution-ends countdown-bg1">
                 <h5 className="title">Woox token for sale</h5>
@@ -148,7 +149,7 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div></div>
       </section>
       
   );
