@@ -23,7 +23,7 @@ const ICOTokens = () => {
                       <div
                       className="pricing-thumb">
                         <img src="img/if_Bitcoin_2745023.png"
-                        className="woox-icon" alt=""
+                        className="dupe-icon" alt=""
                         />
                         <h5
                         className="pricing-title">
@@ -31,11 +31,11 @@ const ICOTokens = () => {
                         </h5>
 
                         <div className="gain-drop-arrow">
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-up arrow-up active">
                             <use xlinkHref="#icon-arrow-up"></use>
                           </svg>
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-down arrow-down">
                             <use xlinkHref="#icon-arrow-down"></use>
                           </svg>
@@ -66,7 +66,7 @@ const ICOTokens = () => {
                       <div
                       className="pricing-thumb">
                         <img src="img/if_etherium_eth_ethcoin_crypto_2844386.png"
-                        className="woox-icon" alt=""
+                        className="dupe-icon" alt=""
                         />
                         <h5
                         className="pricing-title">
@@ -74,11 +74,11 @@ const ICOTokens = () => {
                         </h5>
 
                         <div className="gain-drop-arrow">
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-up arrow-up active">
                             <use xlinkHref="#icon-arrow-up"></use>
                           </svg>
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-down arrow-down">
                             <use xlinkHref="#icon-arrow-down"></use>
                           </svg>
@@ -109,7 +109,7 @@ const ICOTokens = () => {
                       <div
                       className="pricing-thumb">
                         <img src="img/if_dash_dashcoin_2844383.png"
-                        className="woox-icon" alt=""
+                        className="dupe-icon" alt=""
                         />
                         <h5
                         className="pricing-title">
@@ -117,11 +117,11 @@ const ICOTokens = () => {
                         </h5>
 
                         <div className="gain-drop-arrow">
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-up arrow-up active">
                             <use xlinkHref="#icon-arrow-up"></use>
                           </svg>
-                          <svg className="woox-icon
+                          <svg className="dupe-icon
                           icon-arrow-down arrow-down">
                             <use xlinkHref="#icon-arrow-down"></use>
                           </svg>

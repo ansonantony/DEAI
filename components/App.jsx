@@ -43,7 +43,7 @@ const App = () => {
                 btn--apple btn--with-icon
                 btn--icon-left"
                 >
-                  <svg className="woox-icon
+                  <svg className="dupe-icon
                   icon-apple">
                     <use xlinkHref="#icon-apple"></use>
                   </svg>
@@ -63,7 +63,7 @@ const App = () => {
                 btn--apple btn--with-icon
                 btn--icon-left"
                 >
-                  <svg className="woox-icon
+                  <svg className="dupe-icon
                   icon-if-59-play-843782">
                     <use xlinkHref="#icon-if-59-play-843782"></use>
                   </svg>

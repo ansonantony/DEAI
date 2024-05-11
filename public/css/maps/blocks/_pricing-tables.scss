@@ -248,14 +248,14 @@
 	display: flex;
 	align-items: center;
 
-	.woox-icon {
+	.dupe-icon {
 	  width: 35px;
 	  height: 35px;
 	  display: inline-block;
 	  vertical-align: middle;
 	  fill: $icon-color;
 
-	  & + .woox-icon {
+	  & + .dupe-icon {
 		margin-left: 10px;
 	  }
 

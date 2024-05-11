@@ -16,7 +16,7 @@ var CRUMINA = {};
   function m(t) {
     return t.id
       ? e(
-          '<span ><img class="woox-icon" sytle="display: inline-block;" src="img/' +
+          '<span ><img class="dupe-icon" sytle="display: inline-block;" src="img/' +
             t.element.value.toLowerCase() +
             '.png" /> ' +
             t.text +
@@ -452,7 +452,7 @@ var CRUMINA = {};
       });
     }),
     (CRUMINA.select2Init = function () {
-      e(".woox--select").select2();
+      e(".dupe--select").select2();
     }),
     (CRUMINA.select2LS = function () {
       var t = e(".language-switcher");

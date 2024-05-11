@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Woox {
-    string public name = "Woox";
-    string public symbol  ="Woox";
-    string public standard = "Woox v.0.1";
+contract Dupe {
+    string public name = "Dupe";
+    string public symbol  ="Dupe";
+    string public standard = "Dupe v.0.1";
     uint256 public totalSupply;
     address public ownerOfContract ;
     uint256 public _userId;

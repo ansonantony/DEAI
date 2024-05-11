@@ -6,7 +6,7 @@
     {
       "inputs": [
         {
-          "internalType": "contract Woox",
+          "internalType": "contract Dupe",
           "name": "_tokenContract",
           "type": "address"
         },
@@ -63,7 +63,7 @@
       "name": "tokenContract",
       "outputs": [
         {
-          "internalType": "contract Woox",
+          "internalType": "contract Dupe",
           "name": "",
           "type": "address"
         }

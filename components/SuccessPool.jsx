@@ -11,7 +11,7 @@ const SuccessPool = ({poolAddress}) => {
         full-width"
         >
           Copy Pool Address
-            <svg className="woox-icon icon-arrow-right">
+            <svg className="dupe-icon icon-arrow-right">
               <use xlinkHref="#icon-arrow-right"></use>
             </svg>
         </button>

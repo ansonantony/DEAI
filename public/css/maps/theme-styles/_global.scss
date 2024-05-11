@@ -199,7 +199,7 @@ ol:not([class]) {
       letter-spacing: -.015em;
     }
 
-    i, .woox-icon {
+    i, .dupe-icon {
       display: inline-block;
       vertical-align: top;
       margin-right: 15px;
@@ -210,7 +210,7 @@ ol:not([class]) {
 }
 
 .list--primary {
-  i, .woox-icon {
+  i, .dupe-icon {
     color: $primary-color;
     fill: $primary-color;
 	height: 19px;
@@ -238,7 +238,7 @@ ol:not([class]) {
 
 .list--round {
   li {
-    i, .woox-icon {
+    i, .dupe-icon {
       margin-right: 25px;
       width: 12px;
       height: 12px;
@@ -497,7 +497,7 @@ blockquote {
     padding-left: 0;
   }
 
-  .list--round li .woox-icon,
+  .list--round li .dupe-icon,
   .list--round li i {
     margin-right: 10px;
   }
@@ -522,7 +522,7 @@ blockquote {
     padding-left: 40px;
   }
 
-  .list--primary .woox-icon {
+  .list--primary .dupe-icon {
     height: 11px;
     width: 11px;
   }

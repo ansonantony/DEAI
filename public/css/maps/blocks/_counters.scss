@@ -9,12 +9,12 @@
 	  width: 80%;
 	  background-color: $primary-color;
 	}
-	.woox-icon {
+	.dupe-icon {
 	  fill: $primary-color;
 	}
   }
 
-  .woox-icon {
+  .dupe-icon {
 	fill: $icon-color;
 	width: 100px;
 	height: 100px;
@@ -59,7 +59,7 @@
 .counter--icon-left {
   text-align: left;
 
-  .woox-icon {
+  .dupe-icon {
 	float: left;
 	margin-right: 35px;
 	width: 80px;
@@ -115,7 +115,7 @@
 	font-size: 40px;
   }
 
-  .counter--icon-left .woox-icon {
+  .counter--icon-left .dupe-icon {
 	width: 40px;
 	height: 40px;
 	margin-right: 0;

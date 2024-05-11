@@ -33,7 +33,7 @@
 
 .crumina-circled-block {
   @include distribute-on-circle(4, 25em, 200px);
-  background-image: url("../img/woox.png");
+  background-image: url("../img/dupe.png");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   margin: 6em auto;
@@ -48,7 +48,7 @@
   border-radius: 20px;
   background-color: #111216;
 
-  .woox-icon {
+  .dupe-icon {
 	max-width: 80px;
 	margin-bottom: 20px;
   }
@@ -81,7 +81,7 @@
 	margin: -50px;
   }
 
-  .circle__item .woox-icon {
+  .circle__item .dupe-icon {
 	max-width: 40px;
   }
 }

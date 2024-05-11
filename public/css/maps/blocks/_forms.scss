@@ -18,7 +18,7 @@ input, textarea, select, .select2 {
   &:focus {
     color: $icon-color;
 
-    & + .woox-icon {
+    & + .dupe-icon {
       fill: $primary-color;
       color: $primary-color;
     }
@@ -53,7 +53,7 @@ input, textarea, select, .select2 {
   }
 }
 
-.woox-icon {
+.dupe-icon {
   transition: all .3s ease;
 }
 
@@ -235,7 +235,7 @@ label {
 .input-with-icon {
   position: relative;
 
-  .woox-icon {
+  .dupe-icon {
     position: absolute;
     left: 30px;
     top: 50%;
@@ -253,17 +253,17 @@ label {
     padding-left: 80px;
     margin-bottom: 0;
 
-    &:focus + .woox-icon {
+    &:focus + .dupe-icon {
       fill: $primary-color;
     }
 
 	&.input--dark {
-	  & + .woox-icon {
+	  & + .dupe-icon {
         color: $border-color;
         fill: $border-color;
 	  }
 
-	  &:focus + .woox-icon {
+	  &:focus + .dupe-icon {
 		fill: $primary-color;
 		color: $primary-color;
 	  }
@@ -272,7 +272,7 @@ label {
 
   &.input-icon--right {
 
-    .woox-icon {
+    .dupe-icon {
       left: auto;
       right: 30px;
     }
@@ -485,9 +485,9 @@ select, .select2 {
 }
 
 
-/*------------- #Woox-select Dark --------------*/
+/*------------- #Dupe-select Dark --------------*/
 
-.woox--select--dark {
+.dupe--select--dark {
   & + .select2 {
     background-color: $bg-accordion-grey;
   }
@@ -512,7 +512,7 @@ select, .select2 {
   }
 }
 
-.woox--select--dark-dropdown {
+.dupe--select--dark-dropdown {
   background-color: $bg-accordion-grey;
 
   .select2-results__option--highlighted[aria-selected],
@@ -521,9 +521,9 @@ select, .select2 {
   }
 }
 
-/*------------- #Woox-select style-squared --------------*/
+/*------------- #Dupe-select style-squared --------------*/
 
-.woox--select-squared {
+.dupe--select-squared {
   border-radius: 8px;
   padding: 14px 30px;
 
@@ -569,7 +569,7 @@ select, .select2 {
     background-color: $primary-color;
   }
 
-  &.woox--select--dark {
+  &.dupe--select--dark {
     & + .select2-container--default .select2-selection--single .select2-selection__arrow::after {
       background-color: $border-color;
     }
@@ -580,7 +580,7 @@ select, .select2 {
   }
 }
 
-.woox--select-squared-dropdown {
+.dupe--select-squared-dropdown {
   border-radius: 0 0 8px 8px;
   margin-top: -10px;
 
@@ -590,7 +590,7 @@ select, .select2 {
   }
 }
 
-.woox--select-squared-dropdown-dark {
+.dupe--select-squared-dropdown-dark {
   border-radius: 0 0 8px 8px;
   margin-top: -10px;
   background-color: $bg-accordion-faqs;
@@ -653,7 +653,7 @@ select, .select2 {
       display: flex;
       align-items: center;
 
-      .woox-icon {
+      .dupe-icon {
         width: 20px;
         height: 20px;
         border-radius: 100%;

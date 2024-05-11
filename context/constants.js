@@ -1,4 +1,4 @@
-//Woox: 0x0d712a4A5dD5Cb2FF9D9e89089cf6A4DEFaDF4b4
+//Dupe: 0x0d712a4A5dD5Cb2FF9D9e89089cf6A4DEFaDF4b4
 // ICOWoox: 0x5728a5c4A729cAb2112902F6402389914547EA43
  //Liqdity: 0x8FD002B8cFc3C9aa9AE97B503055B4eA34869606
 
@@ -9,13 +9,13 @@
  import factoryAbi from "./factoryAbi.json";
  import ERC20ABI from "./abi.json";
 
- import Woox from "./Woox.json";
+ import Dupe from "./Dupe.json";
  import ICOWoox from "./ICOWoox.json";
  import Liqudity from "./Liqudity.json";
 
  //Token
  export const Woox_ADDRESS = "0x0d712a4A5dD5Cb2FF9D9e89089cf6A4DEFaDF4b4";
- export const Woox_ABI = Woox.abi;
+ export const Woox_ABI = Dupe.abi;
 
  //token Sale
  export const ICOWoox_ADDRESS = "0x5728a5c4A729cAb2112902F6402389914547EA43";

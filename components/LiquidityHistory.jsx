@@ -66,7 +66,7 @@ const LiquidityHistory = ({GET_ALL_LIQUIDITY}) => {
                               network == "11155111" ? 
                               "img/1.png" : "img/logo-primary.png"
                               } alt="" 
-                              className="woox-icon"
+                              className="dupe-icon"
                               />
                               <h6 className="pricing-title">{liqudity?.tokenA}
                               <span>
@@ -81,7 +81,7 @@ const LiquidityHistory = ({GET_ALL_LIQUIDITY}) => {
                               :liqudity?.network == "5" ?
                               "Georila" : liqudity?.
                               network == "11155111" ? 
-                              "Sepolia" : "woox"
+                              "Sepolia" : "dupe"
                               } 
                               </span>
                               </h6>

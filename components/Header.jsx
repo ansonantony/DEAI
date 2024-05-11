@@ -11,6 +11,7 @@ const Header = ({setOpenAddPool, setOpenAllLiquidity, connect,
       <div className="container">
         <div className="header-content-wrapper">
           <nav id="primary-menu" className="primary-menu">
+            
             <ul className="primary-menu-menu">
               <li onClick={() => setOpenAddPool(true)}
               className="menu-item-has-children">
@@ -23,10 +24,10 @@ const Header = ({setOpenAddPool, setOpenAllLiquidity, connect,
               <li  className="menu-item-has-children">
                 <a>Coin Market</a>
               </li>
-              <li className="menu-item-has-children">
-                <a href="#tokenBuy"> Buy Woox Token</a>
+              <li style={{marginRight:"400px"}} className="menu-item-has-children">
+                <a href="#tokenBuy"> Buy Dupe Token</a>
               </li>
-
+              
               {
                 address ? (
                   <a onClick={() => navigator.clipboard

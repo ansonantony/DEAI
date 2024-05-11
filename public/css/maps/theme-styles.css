@@ -287,7 +287,7 @@ ol:not([class]) ul li {
 }
 
 .list li i,
-.list li .woox-icon {
+.list li .dupe-icon {
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
@@ -296,7 +296,7 @@ ol:not([class]) ul li {
 }
 
 .list--primary i,
-.list--primary .woox-icon {
+.list--primary .dupe-icon {
     color: #ffba00;
     fill: #ffba00;
     height: 19px;
@@ -316,7 +316,7 @@ ol:not([class]) ul li {
 }
 
 .list--round li i,
-.list--round li .woox-icon {
+.list--round li .dupe-icon {
     margin-right: 25px;
     width: 12px;
     height: 12px;
@@ -568,7 +568,7 @@ blockquote p {
     .list {
         padding-left: 0;
     }
-    .list--round li .woox-icon,
+    .list--round li .dupe-icon,
     .list--round li i {
         margin-right: 10px;
     }
@@ -589,7 +589,7 @@ blockquote p {
     ol ol ol li {
         padding-left: 40px;
     }
-    .list--primary .woox-icon {
+    .list--primary .dupe-icon {
         height: 11px;
         width: 11px;
     }
@@ -2292,7 +2292,7 @@ body.crumina-grid .kc_col-of-5 {
     border-radius: 20px;
 }
 
-.icon-demonstration .woox-icon {
+.icon-demonstration .dupe-icon {
     width: 60px;
     height: 60px;
     fill: #ffba00;
@@ -3547,7 +3547,7 @@ textarea {
     margin-right: 13px;
 }
 
-.site-logo .woox-icon {
+.site-logo .dupe-icon {
     width: 100px;
     fill: #fff;
 }
@@ -4101,7 +4101,7 @@ textarea {
         margin-right: 8px;
         max-width: 40px;
     }
-    .site-logo .woox-icon {
+    .site-logo .dupe-icon {
         width: 60px;
     }
 }
@@ -4438,7 +4438,7 @@ License: http://codecanyon.net/licenses
     margin-left: 4px;
 }
 
-.primary-menu-menu ul.sub-menu.sub-menu--with-icons li .woox-icon {
+.primary-menu-menu ul.sub-menu.sub-menu--with-icons li .dupe-icon {
     width: 18px;
     height: 18px;
     margin-right: 13px;
@@ -6152,8 +6152,8 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     border-color: #ffba00;
 }
 
-.tabs--style-scaled>ul li:hover a .tab-thumb .woox-icon,
-.tabs--style-scaled>ul li.active a .tab-thumb .woox-icon {
+.tabs--style-scaled>ul li:hover a .tab-thumb .dupe-icon,
+.tabs--style-scaled>ul li.active a .tab-thumb .dupe-icon {
     fill: #ffba00;
 }
 
@@ -6188,7 +6188,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     transition: all .3s ease;
 }
 
-.tabs--style-scaled>ul li a .tab-thumb .woox-icon {
+.tabs--style-scaled>ul li a .tab-thumb .dupe-icon {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -6229,7 +6229,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     margin-left: 50px;
 }
 
-.tab-content-title .woox-icon {
+.tab-content-title .dupe-icon {
     width: 30px;
     height: 30px;
     margin-left: 30px;
@@ -6298,11 +6298,11 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     color: #ffba00;
 }
 
-.action-link:hover .woox-icon {
+.action-link:hover .dupe-icon {
     fill: #ffba00;
 }
 
-.action-link .woox-icon {
+.action-link .dupe-icon {
     fill: rgba(255, 186, 0, 0.7);
     width: 12px;
     height: 12px;
@@ -6319,7 +6319,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
         max-height: 90px;
         border-width: 5px;
     }
-    .tabs--style-scaled>ul li a .tab-thumb .woox-icon {
+    .tabs--style-scaled>ul li a .tab-thumb .dupe-icon {
         width: 50px;
         height: 50px;
         max-width: 50px;
@@ -6471,7 +6471,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
         max-width: 60px;
         max-height: 60px;
     }
-    .tabs--style-scaled>ul li a .tab-thumb .woox-icon {
+    .tabs--style-scaled>ul li a .tab-thumb .dupe-icon {
         width: 30px;
         height: 30px;
         max-width: 30px;

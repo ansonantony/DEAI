@@ -48,7 +48,7 @@ const index = () => {
       setOpenAllLiquidity={setOpenAllLiquidity}
       connect={connect} address={address}
        />
-
+      
        <div className="main-content-wrapper">
         <Hero transferNativeToken = 
           {transferNativeToken} />

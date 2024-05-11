@@ -54,7 +54,7 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
             <div className="crumina-module
             crumina-counter-item counter--icon-left
             mt60">
-              <svg className="woox-icon">
+              <svg className="dupe-icon">
                 <use xlinkHref="#icon-group"></use>
               </svg>
 
@@ -76,7 +76,7 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
             col-lg-offset-0 col-sm-12 col-xs-12 center">
               <div className="widget
               w-distribution-ends countdown-bg1">
-                <h5 className="title">Woox token for sale</h5>
+                <h5 className="title">Dupe token for sale</h5>
                 <div className="new_center_img mt30">
                   <img src="img/nopool.png"
                   className="responsive-width-50" alt="" />
@@ -89,7 +89,7 @@ const ICOSale = ({tokenSale, nativeToken, buyToken}) => {
                 className="btn btn--large
                 btn--green-light"
                 >
-                  Buy Woox Tokens
+                  Buy Dupe Tokens
                 </a>
 
                 <div className="crumina-module 

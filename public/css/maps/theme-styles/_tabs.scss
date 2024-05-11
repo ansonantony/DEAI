@@ -580,7 +580,7 @@
 			transform: scale(.8);
 			border-color: $primary-color;
 
-			.woox-icon {
+			.dupe-icon {
 			  fill: $primary-color;
 			}
 		  }
@@ -616,7 +616,7 @@
 		  position: relative;
 		  transition: all .3s ease;
 
-		  .woox-icon {
+		  .dupe-icon {
 			position: absolute;
 			top: 50%;
 			left: 50%;
@@ -661,7 +661,7 @@
 	margin-left: 50px;
   }
 
-  .woox-icon {
+  .dupe-icon {
 	width: 30px;
 	height: 30px;
 	margin-left: 30px;
@@ -732,12 +732,12 @@
   &:hover {
 	color: rgba($primary-color, 1);
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: rgba($primary-color, 1);
 	}
   }
 
-  .woox-icon {
+  .dupe-icon {
 	fill: rgba($primary-color, .7);
 	width: 12px;
 	height: 12px;
@@ -756,7 +756,7 @@
 	border-width: 5px;
   }
 
-  .tabs--style-scaled > ul li a .tab-thumb .woox-icon {
+  .tabs--style-scaled > ul li a .tab-thumb .dupe-icon {
 	width: 50px;
 	height: 50px;
 	max-width: 50px;
@@ -949,7 +949,7 @@
 	max-height: 60px;
   }
 
-  .tabs--style-scaled > ul li a .tab-thumb .woox-icon {
+  .tabs--style-scaled > ul li a .tab-thumb .dupe-icon {
 	width: 30px;
 	height: 30px;
 	max-width: 30px;

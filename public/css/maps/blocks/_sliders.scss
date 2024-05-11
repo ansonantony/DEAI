@@ -28,7 +28,7 @@
 	.swiper-btn-next,
 	.swiper-btn-prev {
 
-	  .woox-icon {
+	  .dupe-icon {
 		width: 17px;
 		height: 17px;
 	  }
@@ -46,7 +46,7 @@
   cursor: pointer;
   transition: all .3s ease;
 
-  .woox-icon {
+  .dupe-icon {
 	width: 33px;
 	height: 33px;
 	fill: $alert-close-color;
@@ -55,7 +55,7 @@
   }
 
   &:hover {
-	.woox-icon {
+	.dupe-icon {
 	  fill: $primary-color;
 	}
   }
@@ -63,7 +63,7 @@
   &.btn--round {
 	border: 3px solid transparent;
 
-	.woox-icon {
+	.dupe-icon {
 	  height: 17px;
 	  width: 17px;
 	  color: $white-color;

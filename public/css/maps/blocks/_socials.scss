@@ -14,13 +14,13 @@
 	  margin-right: 0;
 	}
 
-	&:hover .woox-icon {
+	&:hover .dupe-icon {
 	  fill: $primary-color;
 	  color: $primary-color;
 	}
   }
 
-  .woox-icon {
+  .dupe-icon {
 	height: 22px;
 	width: 22px;
 	font-size: 22px;
@@ -34,7 +34,7 @@
 }
 
 .socials--small {
-  .woox-icon {
+  .dupe-icon {
 	height: 20px;
 	width: 20px;
   }
@@ -46,14 +46,14 @@
 }
 
 .socials--white {
-  .woox-icon {
+  .dupe-icon {
 	fill: $white-color;
 	color: $white-color;
   }
 
   .social-item {
 
-	&:hover .woox-icon {
+	&:hover .dupe-icon {
 	  fill: $primary-color;
 	  color: $primary-color;
 	}

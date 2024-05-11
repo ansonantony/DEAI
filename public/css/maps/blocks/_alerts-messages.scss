@@ -26,7 +26,7 @@
 	text-align: center;
 	margin-right: 20px;
 
-    .woox-icon {
+    .dupe-icon {
       width: 16px;
       height: 16px;
     }
@@ -35,7 +35,7 @@
   .icon-close {
 	margin-left: auto;
 
-	.woox-icon {
+	.dupe-icon {
 	  width: 12px;
 	  height: 12px;
 	  fill: $icon-color;
@@ -68,7 +68,7 @@
   .alert-icon {
 	border-color: $alert-close-color;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $icon-color;
 	}
   }
@@ -83,7 +83,7 @@
   .alert-icon {
 	border-color: $green-lighter;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $green-lighter;
 	}
   }
@@ -97,7 +97,7 @@
   .alert-icon {
 	border-color: $blue-light;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $blue-light;
 	}
   }
@@ -111,7 +111,7 @@
   .alert-icon {
 	border-color: $primary-color;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $primary-color;
 	}
   }
@@ -125,7 +125,7 @@
   .alert-icon {
 	border-color: $red-light;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $red-light;
 	}
   }
@@ -149,7 +149,7 @@
 
 	.alert-icon {
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $border-color;
 	  }
 	}
@@ -160,7 +160,7 @@
 
 	.alert-icon {
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $red-light;
 	  }
 	}
@@ -171,7 +171,7 @@
 
 	.alert-icon {
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $primary-color;
 	  }
 	}
@@ -182,7 +182,7 @@
 
 	.alert-icon {
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $green-lighter;
 	  }
 	}
@@ -193,7 +193,7 @@
 
 	.alert-icon {
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $blue-light;
 	  }
 	}
@@ -210,12 +210,12 @@
 	border-color: transparent;
 	background-color: $alert-grey;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $white-color;
 	}
   }
 
-  .icon-close .woox-icon {
+  .icon-close .dupe-icon {
 	fill: $white-color;
   }
 
@@ -226,7 +226,7 @@
 	  background-color: $alert-close-color;
 	}
 
-	.icon-close .woox-icon {
+	.icon-close .dupe-icon {
 	  fill: $alert-close-color;
 	}
   }
@@ -280,12 +280,12 @@
 	border-color: transparent;
 	border-radius: 10px;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $white-color;
 	}
   }
 
-  .icon-close .woox-icon {
+  .icon-close .dupe-icon {
 	width: 8px;
 	height: 8px;
   }
@@ -348,7 +348,7 @@
 	box-shadow: 6px 0 13px 0 rgba(61,67,79,.08);
 	border-color: transparent;
 
-	.woox-icon {
+	.dupe-icon {
 	  fill: $white-color;
 	  width: 28px;
 	  height: 28px;
@@ -428,7 +428,7 @@
 	margin-right: 20px;
   }
 
-  .alert--large .alert-icon .woox-icon {
+  .alert--large .alert-icon .dupe-icon {
 	width: 20px;
 	height: 20px;
   }

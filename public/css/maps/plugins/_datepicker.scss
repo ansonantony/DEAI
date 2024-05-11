@@ -212,7 +212,7 @@
 
   &.is-focused, &:active {
 
-    .woox-icon {
+    .dupe-icon {
       color: $primary-color;
       fill: $primary-color;
     }
@@ -227,7 +227,7 @@
   height: 24px;
   width: 24px;
 
-  .woox-icon {
+  .dupe-icon {
 	font-size: 24px;
 	height: 24px;
 	width: 24px;
@@ -304,7 +304,7 @@
     height: 100%;
     line-height: 2;
 
-	.woox-icon {
+	.dupe-icon {
 	  position: relative;
 	  width: 13px;
 	  height: 13px;
@@ -347,14 +347,14 @@
 	&:focus {
 	  color: $link-color;
 
-	  & + .datepicker-icons .woox-icon {
+	  & + .datepicker-icons .dupe-icon {
 		color: $primary-color;
 		fill: $primary-color;
 	  }
 	}
   }
 
-  .datepicker-icons .woox-icon {
+  .datepicker-icons .dupe-icon {
 	color: $icon-color;
 	fill: $icon-color;
   }
@@ -415,7 +415,7 @@
       border-radius: 7px 7px 0 0;
     }
 
-	.woox-icon {
+	.dupe-icon {
 	  color: $primary-color;
 	  fill: $primary-color;
 	}
@@ -437,7 +437,7 @@
 	  border: 3px solid $dark-lighter;
 	}
 
-	.datepicker-icons .woox-icon {
+	.datepicker-icons .dupe-icon {
 	  color: $border-color;
 	  fill: $border-color;
 	}

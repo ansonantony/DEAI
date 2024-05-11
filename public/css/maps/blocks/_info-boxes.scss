@@ -12,7 +12,7 @@
   margin: 0 auto 10px;
   transition: all .3s ease;
 
-  .woox-icon {
+  .dupe-icon {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -52,7 +52,7 @@
     line-height: 160px;
 	border: 10px double $border-color;
 
-    .woox-icon {
+    .dupe-icon {
       width: 110px;
       height: 110px;
 	  fill: $border-color;
@@ -74,7 +74,7 @@
 	.info-box-thumb {
 	  border-color: $primary-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $primary-color;
 	  }
 	}
@@ -113,7 +113,7 @@
 	border: 10px double $border-color;
 	margin: 0 0 -70px -40px;
 
-	.woox-icon {
+	.dupe-icon {
 	  width: 110px;
 	  height: 110px;
 	  fill: $border-color;
@@ -141,7 +141,7 @@
 	  line-height: 80px;
 	  margin: 0 0 20px 0;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $primary-color;
 		width: 50px;
 		height: 50px;
@@ -185,7 +185,7 @@
 	line-height: 160px;
 	border: 10px double $border-color;
 
-	.woox-icon {
+	.dupe-icon {
 	  width: 110px;
 	  height: 110px;
 	  fill: $border-color;
@@ -198,7 +198,7 @@
 	.info-box-thumb {
 	  border-color: $primary-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $primary-color;
 	  }
 	}
@@ -220,7 +220,7 @@
 	  color: $white-color;
 	  border-color: $primary-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $white-color;
 	  }
 	}
@@ -254,7 +254,7 @@
   .info-box-thumb {
 	margin: 20px auto;
 
-	.woox-icon {
+	.dupe-icon {
 	  position: relative;
 	  top: auto;
 	  left: auto;
@@ -272,7 +272,7 @@
 	  border-color: $primary-color;
 	  color: $white-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $white-color;
 	  }
 
@@ -302,7 +302,7 @@
     float: left;
 	margin: 0 40px 0 0;
 
-    .woox-icon {
+    .dupe-icon {
       position: relative;
       top: auto;
       left: auto;
@@ -331,7 +331,7 @@
 	  border-color: $primary-color;
 	  color: $white-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $white-color;
 	  }
 	}
@@ -355,7 +355,7 @@
 	float: left;
 	margin: 0 40px 0 0;
 
-	.woox-icon {
+	.dupe-icon {
 	  position: relative;
 	  top: auto;
 	  left: auto;
@@ -393,7 +393,7 @@
 	  border-color: $primary-color;
 	  color: $white-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $white-color;
 	  }
 	}
@@ -416,7 +416,7 @@
 	width: 160px;
 	height: 160px;
 
-	.woox-icon {
+	.dupe-icon {
 	  position: relative;
 	  top: auto;
 	  left: auto;
@@ -455,7 +455,7 @@
 	  color: $white-color;
 	  border-color: $primary-color;
 
-	  .woox-icon {
+	  .dupe-icon {
 		fill: $white-color;
 	  }
 	}
@@ -483,12 +483,12 @@
 	font-size: 18px;
   }
 
-  .info-box--style2 .info-box-thumb .woox-icon {
+  .info-box--style2 .info-box-thumb .dupe-icon {
 	width: 40px;
 	height: 40px;
   }
 
-  .info-box--style2:hover .info-box-thumb .woox-icon {
+  .info-box--style2:hover .info-box-thumb .dupe-icon {
 	width: 20px;
 	height: 20px;
   }
@@ -531,7 +531,7 @@
 	line-height: 100px;
   }
 
-  .info-box--style4 .info-box-thumb .woox-icon {
+  .info-box--style4 .info-box-thumb .dupe-icon {
 	width: 60px;
 	height: 60px;
   }
@@ -548,12 +548,12 @@
 	line-height: 100px;
   }
 
-  .info-box--double-borders .info-box-thumb .woox-icon {
+  .info-box--double-borders .info-box-thumb .dupe-icon {
 	width: 60px;
 	height: 60px;
   }
 
-  .info-box--bg-colored .info-box-thumb .woox-icon {
+  .info-box--bg-colored .info-box-thumb .dupe-icon {
 	min-width: 100px;
 	min-height: 100px;
 	max-width: 100px;
@@ -566,7 +566,7 @@
 	margin: 0;
 	float: none;
 
-	.woox-icon {
+	.dupe-icon {
 	  width: 100%;
 	}
   }
@@ -592,12 +592,12 @@
 	border-width: 3px;
   }
 
-  .info-box--style2 .info-box-thumb .woox-icon {
+  .info-box--style2 .info-box-thumb .dupe-icon {
 	width: 35px;
 	height: 35px;
   }
 
-  .info-box--style2:hover .info-box-thumb .woox-icon {
+  .info-box--style2:hover .info-box-thumb .dupe-icon {
 	width: 15px;
 	height: 15px;
   }

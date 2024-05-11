@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "Woox",
-  "sourceName": "contracts/Woox.sol",
+  "contractName": "Dupe",
+  "sourceName": "contracts/Dupe.sol",
   "abi": [
     {
       "inputs": [

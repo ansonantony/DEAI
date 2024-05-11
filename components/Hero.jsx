@@ -44,7 +44,7 @@ const Hero = ({transferNativeToken}) => {
               href="#buyWoox"
               className="btn btn--large
               btn--primary btn--transparent">
-                Get Woox Token Now!
+                Get Dupe Token Now!
               </a>
             </div>
           </div>

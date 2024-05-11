@@ -470,9 +470,9 @@ var color = '';
         },
         headTemplate: '<thead>' +
             '<tr>' +
-            '<th class="prev"><p><svg class="woox-icon icon-arrow-left"><use xlink:href="#icon-arrow-left"></use></svg></p></th>' +
+            '<th class="prev"><p><svg class="dupe-icon icon-arrow-left"><use xlink:href="#icon-arrow-left"></use></svg></p></th>' +
             '<th colspan="5" class="switch-datepicker"></th>' +
-            '<th class="next"><p><svg class="woox-icon icon-arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></p></th>' +
+            '<th class="next"><p><svg class="dupe-icon icon-arrow-right"><use xlink:href="#icon-arrow-right"></use></svg></p></th>' +
             '</tr>' +
             '</thead>',
         contTemplate: '<tbody><tr><td colspan="7"></td></tr></tbody>'

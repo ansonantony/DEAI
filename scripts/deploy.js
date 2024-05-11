@@ -6,18 +6,18 @@ const tokens = (nToken) => {
 };
 
 async function main() {
-    //Woox Token 
+    //Dupe Token 
     const _initialSupply = tokens(500000000000);
-    const Woox = await hre.ethers.getContractFactory("Woox");
-    const woox = await Woox.deploy(_initialSupply);
+    const Dupe = await hre.ethers.getContractFactory("Dupe");
+    const dupe = await Dupe.deploy(_initialSupply);
 
-    await woox.deployed();
-    console.log(` Woox: ${woox.address}`);
+    await dupe.deployed();
+    console.log(` Dupe: ${dupe.address}`);
 
-    //ICO Woox
+    //ICO Dupe
     const _tokenPrice = tokens(0.0001);
     const ICOWoox = await hre.ethers.getContractFactory("ICOWoox");
-    const icoWoox = await ICOWoox.deploy(woox.address, _tokenPrice);
+    const icoWoox = await ICOWoox.deploy(dupe.address, _tokenPrice);
 
     await icoWoox.deployed();
     console.log(` ICOWoox: ${icoWoox.address}`);

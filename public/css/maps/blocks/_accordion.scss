@@ -40,7 +40,7 @@
     opacity: 1;
     position: relative;
 
-    .woox-icon {
+    .dupe-icon {
       height: 16px;
       width: 16px;
       fill: $border-color;
@@ -72,7 +72,7 @@
         color: $primary-color;
       }
 
-      i, .woox-icon {
+      i, .dupe-icon {
         transform: rotate(180deg);
         fill: $primary-color;
 
@@ -173,7 +173,7 @@
       margin-right: 30px;
 	  background-color: $bg-accordion;
 
-      .woox-icon {
+      .dupe-icon {
         position: absolute;
         top: 50%;
         left: 50%;
@@ -191,7 +191,7 @@
           border-color: $primary-color;
         }
 
-        .woox-icon {
+        .dupe-icon {
           transform: rotate(0);
           opacity: 0;
         }
@@ -233,7 +233,7 @@
       margin-right: 30px;
 	  background-color: $bg-accordion;
 
-      .woox-icon {
+      .dupe-icon {
         width: 12px;
         height: 12px;
         position: absolute;
@@ -253,7 +253,7 @@
           background-color: $primary-color;
         }
 
-        .woox-icon {
+        .dupe-icon {
           fill: $secondary-color;
         }
       }
@@ -301,7 +301,7 @@
 	  margin-right: 0;
 	  background-color: $bg-accordion;
 
-	  .woox-icon {
+	  .dupe-icon {
 		width: 12px;
 		height: 12px;
 		position: absolute;
@@ -320,7 +320,7 @@
 		  color: $white-color;
 		}
 
-		.woox-icon {
+		.dupe-icon {
 		  fill: $secondary-color;
 		}
 	  }

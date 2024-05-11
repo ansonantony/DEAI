@@ -63,7 +63,7 @@
   border-width: 3px;
 }
 
-.woox-icon {
+.dupe-icon {
   transition: all .3s ease;
 }
 
@@ -71,7 +71,7 @@
   position: relative;
   transition: all .3s ease;
 
-  .woox-icon {
+  .dupe-icon {
     width: 17px;
     height: 17px;
 
@@ -92,14 +92,14 @@
   background-color: $white-color;
   color: $border-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $border-color;
   }
 
   &:hover {
     color: $white-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $white-color;
     }
   }
@@ -109,7 +109,7 @@
     border-color: $link-color;
     background-color: $link-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $white-color;
     }
   }
@@ -120,7 +120,7 @@
   background-color: $primary-color;
   color: $white-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $white-color;
   }
 
@@ -128,7 +128,7 @@
     background-color: transparent;
     color: $primary-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $primary-color;
     }
   }
@@ -138,7 +138,7 @@
     border-color: darken($primary-color, 10%);
     background-color: darken($primary-color, 10%);
 
-    .woox-icon {
+    .dupe-icon {
       fill: $black-lighter;
     }
   }
@@ -149,14 +149,14 @@
   background-color: $green-light;
   color: $white-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $white-color;
   }
 
   &:hover {
     color: $green-light;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $green-light;
     }
   }
@@ -166,7 +166,7 @@
     border-color: darken($green-light, 10%);
     background-color: darken($green-light, 10%);
 
-    .woox-icon {
+    .dupe-icon {
       fill: $black-lighter;
     }
   }
@@ -177,14 +177,14 @@
   background-color: $dark;
   color: $icon-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $icon-color;
   }
 
   &:hover {
     color: $white-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $white-color;
     }
   }
@@ -194,7 +194,7 @@
     border-color: darken($dark, 10%);
     background-color: darken($dark, 10%);
 
-    .woox-icon {
+    .dupe-icon {
       fill: $border-color;
     }
   }
@@ -205,14 +205,14 @@
   background-color: $dark-lighter;
   color: $icon-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $icon-color;
   }
 
   &:hover {
 	color: $white-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $white-color;
     }
   }
@@ -222,7 +222,7 @@
     border-color: darken($dark-lighter, 10%);
     background-color: darken($dark-lighter, 10%);
 
-    .woox-icon {
+    .dupe-icon {
       fill: $icon-color;
     }
   }
@@ -233,14 +233,14 @@
   background-color: $blue-light;
   color: $white-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $white-color;
   }
 
   &:hover {
     color: $blue-light;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $blue-light;
     }
   }
@@ -250,7 +250,7 @@
     border-color: darken($blue-light, 10%);
     background-color: darken($blue-light, 10%);
 
-    .woox-icon {
+    .dupe-icon {
       fill: $black-lighter;
     }
   }
@@ -262,7 +262,7 @@
   &.btn--secondary {
     color: $white-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $white-color;
     }
 
@@ -270,7 +270,7 @@
       color: $primary-color;
       border-color: $primary-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $primary-color;
       }
     }
@@ -280,7 +280,7 @@
       color: $white-color;
       border-color: $primary-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
     }
@@ -289,7 +289,7 @@
   &.btn--primary {
     color: $primary-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $primary-color;
     }
 
@@ -297,7 +297,7 @@
       color: $white-color;
       background-color: $primary-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
     }
@@ -307,7 +307,7 @@
       border-color: darken($primary-color, 10%);
       color: $black-lighter;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $black-lighter;
       }
     }
@@ -316,7 +316,7 @@
   &.btn--green-light {
     color: $green-light;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $green-light;
     }
 
@@ -324,7 +324,7 @@
       background-color: $green-light;
       color: $white-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
     }
@@ -334,7 +334,7 @@
       border-color: darken($green-light, 10%);
       color: $black-lighter;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $black-lighter;
       }
     }
@@ -343,7 +343,7 @@
   &.btn--blue-light {
     color: $blue-light;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $blue-light;
     }
 
@@ -351,7 +351,7 @@
       background-color: $blue-light;
       color: $white-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
     }
@@ -361,7 +361,7 @@
       border-color: darken($blue-light, 10%);
       color: $black-lighter;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $black-lighter;
       }
     }
@@ -370,7 +370,7 @@
   &.btn--dark-lighter {
     color: $icon-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $icon-color;
     }
 
@@ -378,7 +378,7 @@
       background-color: $dark-lighter;
       color: $white-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
     }
@@ -388,7 +388,7 @@
       border-color: darken($dark-lighter, 10%);
       color: $border-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $border-color;
       }
     }
@@ -397,7 +397,7 @@
   &.btn--dark {
 	color: $icon-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $icon-color;
     }
 
@@ -405,7 +405,7 @@
 	  background-color: $dark;
 	  color: $white-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $white-color;
       }
 	}
@@ -415,7 +415,7 @@
       border-color: darken($dark, 10%);
 	  color: $border-color;
 
-      .woox-icon {
+      .dupe-icon {
         fill: $border-color;
       }
 	}
@@ -427,7 +427,7 @@
   align-items: center;
   justify-content: center;
 
-  .woox-icon, i {
+  .dupe-icon, i {
 	width: 14px;
 	height: 14px;
     font-size: 14px;
@@ -436,7 +436,7 @@
   }
 
   &.btn--x-large {
-    .woox-icon, i {
+    .dupe-icon, i {
       width: 22px;
       height: 22px;
       font-size: 22px;
@@ -445,13 +445,13 @@
 }
 
 .btn--icon-right {
-  .woox-icon, i {
+  .dupe-icon, i {
     margin-left: 10px;
   }
 }
 
 .btn--icon-left {
-  .woox-icon, i {
+  .dupe-icon, i {
     margin-right: 10px;
   }
 }
@@ -466,7 +466,7 @@
   padding: 12px 20px;
   margin-right: 30px;
 
-  .woox-icon, i {
+  .dupe-icon, i {
     min-width: 30px;
     min-height: 30px;
   }
@@ -495,7 +495,7 @@
 .btn--apple {
   color: $link-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $link-color;
   }
 
@@ -510,7 +510,7 @@
     border-color: $primary-color;
     color: $secondary-color;
 
-    .woox-icon {
+    .dupe-icon {
       fill: $secondary-color;
     }
 
@@ -525,7 +525,7 @@
   background-color: $primary-color;
   border-color: $primary-color;
 
-  .woox-icon {
+  .dupe-icon {
     fill: $secondary-color;
   }
 
@@ -544,7 +544,7 @@
       color: $link-color;
     }
 
-    .woox-icon {
+    .dupe-icon {
       fill: $link-color;
     }
   }
@@ -559,13 +559,13 @@
   position: relative;
 
   &:hover {
-    .woox-icon {
+    .dupe-icon {
       fill: $primary-color;
       color: $primary-color;
     }
   }
 
-  .woox-icon {
+  .dupe-icon {
     height: 18px;
     width: 18px;
     position: absolute;
@@ -691,7 +691,7 @@
     border-color: $hr-color;
   }
 
-  .woox-icon {
+  .dupe-icon {
 	fill: $body-font-color;
   }
 
@@ -716,7 +716,7 @@
       }
 	}
 
-	.woox-icon {
+	.dupe-icon {
 	  height: 30px;
 	  width: 30px;
       border-radius: 100%;
@@ -771,7 +771,7 @@
     border-color: $hr-color;
   }
 
-  .woox-icon {
+  .dupe-icon {
     fill: $body-font-color;
   }
 
@@ -797,7 +797,7 @@
       }
     }
 
-    .woox-icon {
+    .dupe-icon {
       height: 30px;
       width: 30px;
       border-radius: 100%;
@@ -908,7 +908,7 @@
 	opacity: 0;
   }
 
-  .woox-icon {
+  .dupe-icon {
 	fill: $white-color;
 	height: 20px;
 	width: 20px;
@@ -932,7 +932,7 @@
   color: $white-color;
   font-weight: 700;
 
-  .woox-icon {
+  .dupe-icon {
     width: 13px;
     height: 13px;
     margin-left: 15px;
@@ -978,7 +978,7 @@
     }
   }
 
-  .back-to-top .woox-icon {
+  .back-to-top .dupe-icon {
     height: 15px;
     width: 15px;
     margin-top: 10px;
@@ -1013,7 +1013,7 @@
     line-height: 30px;
     border-width: 2px;
 
-    .woox-icon {
+    .dupe-icon {
       height: 10px;
       width: 10px;
     }
@@ -1023,7 +1023,7 @@
     padding: 8px 12px;
     margin-right: 5px;
 
-    .woox-icon, i {
+    .dupe-icon, i {
       min-width: 15px;
       min-height: 15px;
     }
@@ -1038,13 +1038,13 @@
   }
 
   .btn--icon-right {
-    .woox-icon, i {
+    .dupe-icon, i {
       margin-left: 5px;
     }
   }
 
   .btn--icon-left {
-    .woox-icon, i {
+    .dupe-icon, i {
       margin-right: 5px;
     }
   }
@@ -1054,7 +1054,7 @@
       padding-left: 35px;
 
       li {
-        .woox-icon {
+        .dupe-icon {
           height: 20px;
           width: 20px;
         }
@@ -1084,13 +1084,13 @@
     line-height: 30px;
     border-width: 2px;
 
-    .woox-icon {
+    .dupe-icon {
       height: 10px;
       width: 10px;
     }
   }
 
-  .btn--share-in-down .socials .woox-icon {
+  .btn--share-in-down .socials .dupe-icon {
     height: 20px;
     width: 20px;
   }
